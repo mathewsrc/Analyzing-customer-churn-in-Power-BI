@@ -24,7 +24,7 @@ Understand churn help the company to:
 - Define a map of **churn rate by state**
 
 ### Insights discovered
-- The churn rate for the database used is around **27%**
+- The churn rate for the database used is **(~27%)**
 - The most reason of churn is related to competitors **(~45%)**
 - In California the churn rate is abnormally hight **(>60%)**
 
