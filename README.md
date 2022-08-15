@@ -13,12 +13,23 @@ Understand churn help the company to:
 - Measure competitiveness.
 - Provides clarity of the type of customer that is leaving.
 
+## **Part 1**
 
-Prepossessing
+### Prepossessing
 - Convert labels (yes, no) to 1 and 0
 - Calculate the sum of churn customers and its rate
 
-Visualizations
-- Define a bar chart to investigate the different reasons why customers churned
-- Define a map of churn rate by state
+### Visualizations
+- Define a bar chart to investigate the **different reasons why customers churned**
+- Define a map of **churn rate by state**
 
+### Insights discovered
+- The churn rate for the database used is around **27%**
+- The most reason of churn is related to competitors **(~45%)**
+- In California the churn rate is abnormally hight **(>60%)**
+
+## **Part 2**
+soon :)
+
+## **Part 3**
+soon :)
