@@ -30,7 +30,12 @@ Understand churn help companies to:
 - In California the churn rate is abnormally hight **(>60%)**
 
 ## **Part 2**
-soon :)
+Analyzing the different demographic fields
+- As the age increase the churn rate increase too
+- Grouping customers we can notice that from group 2 to 6 the churn rate descrease and the group 6 has the lowest churn rate
+- Comparing annual and monthly contracts, it is also clear that customers with a monthly contract have a much higher churn rate **(46.29%)** than customers with an annual contract **(6.62%)**.
+- Analyzing the churn rate from the point of view of average data consumption (GB) with downloads, we noticed that the churn rate is quite pronounced in the group of customers whose average consumption is 5 GB per month and have the Unlimited Data Plan compared to with those who don't.
+- International calls vs churn rate: analyzing the data of customers who make international calls, we found that in percentage terms **72%** of customers do not have a plan and, therefore, this finding makes them potential clients for the new promotionof the international plan.
 
 ## **Part 3**
 soon :)
